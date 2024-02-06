@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Rpandey010
-- 👀 I’m interested in learning the basics of coding
-- 🌱 I’m currently learning python
-
 - 📫 I am student at Niit University pursuing Btech CSe
 
 <!---

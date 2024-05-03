@@ -2,9 +2,6 @@
 <h3 align="centre">Thank you for taking the time to view my GitHub profile! 😄</h3>
 <img align="left" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rpandey010" alt="rpandey010" /></a> </p>
-
 - 📫 How to reach me **rajapandey7733@gmail.com**
 
 - 📄 Know about my experiences [https://1drv.ms/w/c/be2df17370eb78a0/Edcu7VX5zrpIqVZL5QKFR6sBwFFyP_v31ZyGSLWM-B4kgg](https://1drv.ms/w/c/be2df17370eb78a0/Edcu7VX5zrpIqVZL5QKFR6sBwFFyP_v31ZyGSLWM-B4kgg)

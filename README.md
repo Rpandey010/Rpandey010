@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **rajapandey7733@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/c/be2df17370eb78a0/Edcu7VX5zrpIqVZL5QKFR6sBwFFyP_v31ZyGSLWM-B4kgg](https://1drv.ms/w/c/be2df17370eb78a0/Edcu7VX5zrpIqVZL5QKFR6sBwFFyP_v31ZyGSLWM-B4kgg)
+- 📄 Know about my experiences: [My Resume](https://1drv.ms/w/c/be2df17370eb78a0/Edcu7VX5zrpIqVZL5QKFR6sBwFFyP_v31ZyGSLWM-B4kgg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

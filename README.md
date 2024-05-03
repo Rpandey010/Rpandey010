@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raja Pandey</h1>
 <h3 align="centre">Thank you for taking the time to view my GitHub profile! 😄</h3>
-<img align="left" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif">
+<img align="centre" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif">
 
 - 📫 How to reach me **rajapandey7733@gmail.com**
 

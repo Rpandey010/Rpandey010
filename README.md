@@ -6,6 +6,8 @@
 
 - 📄 Know about my experiences: [My Resume](https://1drv.ms/w/c/be2df17370eb78a0/Edcu7VX5zrpIqVZL5QKFR6sBwFFyP_v31ZyGSLWM-B4kgg)
 
+- 🦾 Digital Portfolio: [Portfolio](https://rpandey010.github.io/Digital-Portfolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajapandey7733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajapandey7733" height="30" width="40" /></a>

@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **rajapandey7733@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://1drv.ms/w/c/be2df17370eb78a0/Edcu7VX5zrpIqVZL5QKFR6sBwFFyP_v31ZyGSLWM-B4kgg)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1xOoOets0DU033kR0OmR7ldZC11eISkmv/view)
 
 - 🦾 Digital Portfolio: [Portfolio](https://rpandey010.github.io/Digital-Portfolio/)
 

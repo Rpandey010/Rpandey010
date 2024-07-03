@@ -6,9 +6,9 @@
 
 - 📫 How to reach me **rajapandey7733@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1xOoOets0DU033kR0OmR7ldZC11eISkmv/view)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1TGlehXTyvsBEW6RaQEDQA-Ga8hd0C38F/view)
 
-- 🦾 Digital Portfolio: [Portfolio](https://rpandey010.github.io/Digital-Portfolio/)
+- 🦾 Digital Portfolio: [Portfolio](https://rajapandey2.vercel.app/)
 
 <div align="center">
 <h3 align="left">Connect with me:</h3>

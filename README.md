@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi there! I'm Raja Pandey <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35"/> </h1>
-<h3 align="centre">Thank you for taking the time to view my GitHub profile! 😄</h3>
+
 <img align="centre" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif">
 </div>
 

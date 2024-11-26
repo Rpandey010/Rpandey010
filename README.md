@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hi there! I'm Raja Pandey <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35"/> </h1>
 
-<img align="centre" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif">
+
+<img align="centre" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+
 </div>
 
 - 📫 How to reach me **rajapandey7733@gmail.com**
@@ -13,7 +15,6 @@
 <div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajapandey7733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajapandey7733" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raja pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja pandey" height="30" width="40" /></a>
 </p>
   
